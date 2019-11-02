@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Cardinal",
+    "image": "https://www.oceanlight.com/stock-photo/northern-cardinal-cardinalis-cardinalis-photograph-22923-949802.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Greater Roadrunner",
+    "image": "https://www.oceanlight.com/stock-photo/greater-roadrunner-picture-23077-662882.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Bald Eagle",
+    "image": "https://www.oceanlight.com/stock-photo/alaska-bald-eagle-flying-image-22594-253677.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Red-footed Booby",
+    "image": "https://www.oceanlight.com/stock-photo/red-footed-booby-image-03254-461679.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "American Robin",
+    "image": "https://www.oceanlight.com/stock-photo/turdus-migratorius-american-robin-image-12666-890959.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "White-winged Dove",
+    "image": "https://www.oceanlight.com/stock-photo/white-winged-dove-picture-22989-698265.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Greater Flamingo",
+    "image": "https://www.oceanlight.com/stock-photo/greater-flamingo-photograph-15643-195111.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Gray-headed Albatross",
+    "image": "https://www.oceanlight.com/stock-photo/gray-headed-albatross-south-georgia-picture-24361-269342.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Flightless Steamer Duck",
+    "image": "https://www.oceanlight.com/stock-photo/flightless-steamer-duck-falklands-photograph-23767-733176.jpg",
+    "count": 0
+  }
+]
